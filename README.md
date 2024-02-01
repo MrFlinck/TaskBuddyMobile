@@ -101,6 +101,8 @@
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/e6f0cbac-d9c4-4b8a-8a40-40d17acad98d" width="300" height="600">
 
+<h1></h1>
+
 <div>
 <text>
   Perfil do contratante visto do ponto de vista do contratado
