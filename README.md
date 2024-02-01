@@ -4,12 +4,17 @@
 </text> 
 </div>
 
+<div>
+<text>
+  Contractor sign in 
+</text> 
+</div>
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/9ef50048-47c5-4966-b3c4-05617fc5496e" width="300" height="600">
 
 <div>
 <text>
   Login do contratante 
-  Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
 </text> 
 </div>
 
@@ -20,11 +25,32 @@
 </div>
 
 
+<div>
+<text>
+  contractor login
+</text> 
+</div>
+
+<div>
+<text> 
+  Note: He can log in automatically when he registers. Here he has logged out and will log in again. 
+</text> 
+</div>
+
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a3bdd17f-230f-4a89-b5c9-8e2cfdc7998d" width="300" height="600">
+
 
 <div>
 <text>
   Perfil do contratante
+</text> 
+</div>
+
+
+<div>
+<text>
+  Contractor profile
 </text> 
 </div>
 
@@ -37,6 +63,13 @@
 </text> 
 </div>
 
+<div>
+<text>
+  List of workers, from the contractor's point of view.
+</text> 
+</div>
+
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a16e552a-7dbf-4dbd-b3aa-2ee5048b78c1" width="300" height="600">
 
 
@@ -44,6 +77,12 @@
 <div>
 <text>
   O perfi de quem vai ser contratado
+</text> 
+</div>
+
+<div>
+<text>
+  The profile of those to be hired
 </text> 
 </div>
 
@@ -55,6 +94,13 @@
 </text> 
 </div>
 
+<div>
+<text>
+  The contractor's profile seen from the contractor's point of view
+</text> 
+</div>
+
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/c3dbb3de-b167-4f77-ab9b-ad05ea529c0b" width="300" height="600">
 
 <div>
@@ -63,11 +109,23 @@
 </text> 
 </div>
 
+<div>
+<text>
+  Contractor's response in chat, from the contractor's point of view
+</text> 
+</div>
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/25cb007f-6c72-41c1-b1a2-05464b70a246" width="300" height="600">
 
 <div>
 <text>
   Resposta vista do ponto de vista do contratante
+</text> 
+</div>
+
+<div>
+<text>
+  Response from the contractor's point of view
 </text> 
 </div>
 
@@ -83,11 +141,23 @@
 </text> 
 </div>
 
+<div>
+<text>
+  Contract page when clicking on the "Hired {person's name}" button in the profile to hire the user.
+</text> 
+</div>
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a6e715e1-e5de-4763-a0b6-99de8efe175d" width="300" height="600">
 
 <div>
 <text>
   Contrato sendo criado. Quando ele for feito, irá depender do contratado se ele irá aceitar ou não.
+</text> 
+</div>
+
+<div>
+<text>
+  Contract being created. When it is made, it will depend on the contractor whether he accepts it or not.
 </text> 
 </div>
 
@@ -98,6 +168,13 @@
   Contrato feito com sucesso
 </text>
 </div>
+
+<div>
+<text>
+  Contract successfully completed
+</text>
+</div>
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 
 
@@ -107,11 +184,25 @@
 </text> 
 </div>
 
+<div>
+<text>
+  Pending contract in the list of contracts from the contractor's point of view
+</text> 
+</div>
+
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/357be6ac-ddfd-46c8-bc9d-932e994f5106" width="300" height="600">
 
 <div>
 <text>
   Contrato pendente do ponto de vista do contratado.
+ 
+</text> 
+</div>
+
+<div>
+<text>
+  Contract pending from the contractor's point of view.
  
 </text> 
 </div>
@@ -124,11 +215,24 @@
 </text> 
 </div>
 
+
+<div>
+<text>
+  Pending contract in the list of contracts from the contractor's point of view
+</text> 
+</div>
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/5c4994ae-1415-4721-be4f-f709ca78edc8" width="300" height="600">
 
 <div>
 <text>
   Contrato pendente do ponto de vista do contratado, para escolher se vai aceitar ou não 
+</text> 
+</div>
+
+<div>
+<text>
+  Pending contract from the contractor's point of view, to choose whether to accept or not 
 </text> 
 </div>
 
@@ -144,6 +248,18 @@
 </div> 
 <text>
     Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
+</text>
+</div>
+
+<div>
+<text>
+  Contract accepted from the contractor's point of view.
+</text>
+<div>
+  
+</div> 
+<text>
+    Note: The screen will be the same when it is accepted or denied for both the contractor and the contracted party. 
 </text>
 </div>
 
