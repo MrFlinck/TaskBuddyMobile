@@ -2,10 +2,12 @@
 <text>
   Contrato feito com sucesso
 </text>
-  
 </div>
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 <div>
+<text>
+  Contrato feito com sucesso
+</text>
   
 </div>
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/cdc2740d-0266-46a1-a47a-a9529b0c0b9f" width="300" height="600">
