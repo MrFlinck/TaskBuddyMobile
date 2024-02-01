@@ -113,7 +113,8 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 16 
+  Contrato pendente na lista de contratos do ponto de vista do contratante
+  Obs: Ambas as contas irá ter a mesma tela de pendencia de lista. 
 </text> 
 </div>
 
@@ -121,7 +122,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 17
+  Contrato pendente do ponto de vista do contratante
 </text> 
 </div>
 
