@@ -1,9 +1,3 @@
-<div>
-<text>
-  Contrato feito com sucesso
-</text>
-</div>
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 
 <div>
 <text>
@@ -97,6 +91,14 @@
 
 <div>
 <text>
+  Página do contrato ao clicar no botão "Contratado {nome da pessoa}" no perfil para contratar o usuário.
+</text> 
+</div>
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a6e715e1-e5de-4763-a0b6-99de8efe175d" width="300" height="600">
+
+<div>
+<text>
   Contrato sendo criado. Quando ele for feito, irá depender do contratado se ele irá aceitar ou não.
 </text> 
 </div>
@@ -105,11 +107,13 @@
 
 <div>
 <text>
-  Página do contrato ao clicar no botão para contratar o usuário.
-</text> 
+  Contrato feito com sucesso
+</text>
 </div>
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a6e715e1-e5de-4763-a0b6-99de8efe175d" width="300" height="600">
+
+
 
 <div>
 <text>
