@@ -72,7 +72,8 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 11 
+  Login do contratante 
+  Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
 </text> 
 </div>
 
