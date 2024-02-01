@@ -96,7 +96,7 @@
 
 <div>
 <text>
-  The contractor's profile seen from the contractor's point of view
+  The contractor's profile seen from the hired's point of view
 </text> 
 </div>
 
@@ -111,7 +111,7 @@
 
 <div>
 <text>
-  Contractor's response in chat, from the contractor's point of view
+  Contractor's response in chat, from the hired's point of view
 </text> 
 </div>
 
@@ -157,7 +157,7 @@
 
 <div>
 <text>
-  Contract being created. When it is made, it will depend on the contractor whether he accepts it or not.
+  Contract being created. When it is made, it will depend on the hired whether he accepts it or not.
 </text> 
 </div>
 
@@ -202,7 +202,7 @@
 
 <div>
 <text>
-  Contract pending from the contractor's point of view.
+  Contract pending from the hired's point of view.
  
 </text> 
 </div>
@@ -232,7 +232,7 @@
 
 <div>
 <text>
-  Pending contract from the contractor's point of view, to choose whether to accept or not 
+  Pending contract from the hired's point of view, to choose whether to accept or not 
 </text> 
 </div>
 
@@ -259,7 +259,7 @@
   
 </div> 
 <text>
-    Note: The screen will be the same when it is accepted or denied for both the contractor and the contracted party. 
+    Note: The screen will be the same when it is accepted or denied for both the contractor and the contracted. 
 </text>
 </div>
 
