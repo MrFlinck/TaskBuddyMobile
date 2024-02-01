@@ -7,7 +7,8 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 2 
+  Contrato aceito do ponto de vista do contratante.
+  Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
 </text>  
 </div>
 
