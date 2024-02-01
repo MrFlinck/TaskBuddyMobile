@@ -81,7 +81,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 12 
+  Lista de trablhadores, do ponto de vista do contratante. 
 </text> 
 </div>
 
