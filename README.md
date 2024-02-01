@@ -8,8 +8,11 @@
 <div>
 <text>
   Contrato aceito do ponto de vista do contratante.
-  Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
+
 </text>  
+<text>
+    Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
+</text>
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/cdc2740d-0266-46a1-a47a-a9529b0c0b9f" width="300" height="600">
