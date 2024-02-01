@@ -47,7 +47,7 @@
 
 <div>
 <text>
-  Cadastro
+  Cadastro do contratante
 </text> 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 8 
+  Contrato pendente do ponto de vista do contratado, para escolher se vai aceitar ou não 
 </text> 
 </div>
 
