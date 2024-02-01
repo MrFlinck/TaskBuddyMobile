@@ -63,7 +63,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 9 
+  Perfil do contratante
 </text> 
 </div>
 
