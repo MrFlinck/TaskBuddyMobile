@@ -5,6 +5,32 @@
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/9ef50048-47c5-4966-b3c4-05617fc5496e" width="300" height="600">
+
+<div>
+<text>
+  Login do contratante 
+  Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
+</text> 
+</div>
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a3bdd17f-230f-4a89-b5c9-8e2cfdc7998d" width="300" height="600">
+
+<div>
+<text>
+  Perfil do contratante
+</text> 
+</div>
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/d7e9c99b-eb9d-4c5a-900b-51dd55dee60f" width="300" height="600">
+
+
+<div>
+<text>
+  Lista de trablhadores, do ponto de vista do contratante. 
+</text> 
+</div>
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a16e552a-7dbf-4dbd-b3aa-2ee5048b78c1" width="300" height="600">
 <div>
 <text>
   Contrato aceito do ponto de vista do contratante.
@@ -63,31 +89,6 @@
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/906f78d2-dba0-460a-b55a-72e01f9b9934" width="300" height="600">
 
-<div>
-<text>
-  Perfil do contratante
-</text> 
-</div>
-
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/d7e9c99b-eb9d-4c5a-900b-51dd55dee60f" width="300" height="600">
-
-
-<div>
-<text>
-  Login do contratante 
-  Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
-</text> 
-</div>
-
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a3bdd17f-230f-4a89-b5c9-8e2cfdc7998d" width="300" height="600">
-
-<div>
-<text>
-  Lista de trablhadores, do ponto de vista do contratante. 
-</text> 
-</div>
-
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a16e552a-7dbf-4dbd-b3aa-2ee5048b78c1" width="300" height="600">
 
 <div>
 <text>
