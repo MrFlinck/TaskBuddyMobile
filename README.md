@@ -14,8 +14,7 @@
 </div>
 
 <div>
-<text>
- 
+<text> 
   Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
 </text> 
 </div>
@@ -39,21 +38,8 @@
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a16e552a-7dbf-4dbd-b3aa-2ee5048b78c1" width="300" height="600">
-<div>
-<text>
-  Contrato aceito do ponto de vista do contratante.
 
-</text>
-<div>
-  
-</div>
-  
-<text>
-    Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
-</text>
-</div>
 
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/cdc2740d-0266-46a1-a47a-a9529b0c0b9f" width="300" height="600">
 
 <div>
 <text>
@@ -89,13 +75,6 @@
 
 
 
-<div>
-<text>
-  Contrato pendente do ponto de vista do contratado, para escolher se vai aceitar ou não 
-</text> 
-</div>
-
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/906f78d2-dba0-460a-b55a-72e01f9b9934" width="300" height="600">
 
 
 <div>
@@ -122,8 +101,6 @@
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 
 
-
-
 <div>
 <text>
   Contrato pendente na lista de contratos do ponto de vista do contratante
@@ -148,5 +125,28 @@
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/5c4994ae-1415-4721-be4f-f709ca78edc8" width="300" height="600">
+
+<div>
+<text>
+  Contrato pendente do ponto de vista do contratado, para escolher se vai aceitar ou não 
+</text> 
+</div>
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/906f78d2-dba0-460a-b55a-72e01f9b9934" width="300" height="600">
+
+
+<div>
+<text>
+  Contrato aceito do ponto de vista do contratante.
+</text>
+<div>
+  
+</div> 
+<text>
+    Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
+</text>
+</div>
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/cdc2740d-0266-46a1-a47a-a9529b0c0b9f" width="300" height="600">
 
 
