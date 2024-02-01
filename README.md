@@ -1,3 +1,8 @@
+
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="500">
+
+
+
 ![contrato feito com sucesso](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089)
 ![contrato aceito do ponto de vista do contratante](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/cdc2740d-0266-46a1-a47a-a9529b0c0b9f)
 ![contratante perfil](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/e6f0cbac-d9c4-4b8a-8a40-40d17acad98d)
