@@ -105,7 +105,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 15 
+  Contrato pendente na lista de contratos do ponto de vista do contratante
 </text> 
 </div>
 
@@ -113,8 +113,8 @@
 
 <div>
 <text>
-  Contrato pendente na lista de contratos do ponto de vista do contratante
-  Obs: Ambas as contas irá ter a mesma tela de pendencia de lista. 
+  Contrato pendente do ponto de vista do contratado.
+ 
 </text> 
 </div>
 
@@ -122,7 +122,7 @@
 
 <div>
 <text>
-  Contrato pendente do ponto de vista do contratante
+  Contrato pendente na lista de contratos do ponto de vista do contratante
 </text> 
 </div>
 
