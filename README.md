@@ -1,4 +1,5 @@
-Login or sign in 
+
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/7bbdba39-1697-4599-98c8-837e852ce12e" width="200" height="400">
 <div>
 	
