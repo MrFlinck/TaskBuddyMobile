@@ -69,13 +69,6 @@
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/d7e9c99b-eb9d-4c5a-900b-51dd55dee60f" width="300" height="600">
 
-<div>
-<text>
-  Contrato feito com sucesso 10 
-</text> 
-</div>
-
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/127f258b-2742-41a4-942b-a26e829dcf95" width="300" height="600">
 
 <div>
 <text>
