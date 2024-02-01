@@ -1,7 +1,12 @@
+
 ![contrato pendente contratante](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/dd0d8475-e3f8-4db5-8713-b5f70d41a2e4)
+
 ![aceitarr ou não](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/056e34ff-b481-42f7-b8d7-88aca09b49a0)
+
 ![contrato aceito do ponto de vista do contratante](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/76d4a057-b586-453d-97cb-042d7f27f4ec)
+
 ![usuario](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/2030c3aa-94c5-45f3-8e18-9b950a9379ab)
+
 ![login1](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/4bb9dc32-130a-475d-aa22-454948bbe459)
 ![lista](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/2e818f13-15fe-4f15-8c7f-e3a6df7d0f05)
 ![depre](https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/48861f64-4808-4818-b02d-819d563173ec)
