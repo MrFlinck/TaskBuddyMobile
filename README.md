@@ -13,6 +13,14 @@
 </text> 
 </div>
 
+<div>
+<text>
+ 
+  Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
+</text> 
+</div>
+
+
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a3bdd17f-230f-4a89-b5c9-8e2cfdc7998d" width="300" height="600">
 
 <div>
