@@ -1,6 +1,7 @@
+
 <div>
 <text>
-  Cadastro do contratante
+  Cadastro do contratante (Contractor Registration)
 </text> 
 </div>
 
@@ -10,40 +11,40 @@
 <text>
   Login do contratante 
   Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
+  (Contractor's Login 
+  Note: They can log in automatically after registering. Here, they logged out and will log in again.)
 </text> 
 </div>
 
 <div>
 <text> 
   Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
+  (Note: They can log in automatically after registering. Here, they logged out and will log in again.)
 </text> 
 </div>
-
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a3bdd17f-230f-4a89-b5c9-8e2cfdc7998d" width="300" height="600">
 
 <div>
 <text>
-  Perfil do contratante
+  Perfil do contratante (Contractor's Profile)
 </text> 
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/d7e9c99b-eb9d-4c5a-900b-51dd55dee60f" width="300" height="600">
 
-
 <div>
 <text>
   Lista de trablhadores, do ponto de vista do contratante. 
+  (List of Workers, from the Contractor's Perspective)
 </text> 
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/a16e552a-7dbf-4dbd-b3aa-2ee5048b78c1" width="300" height="600">
 
-
-
 <div>
 <text>
-  O perfi de quem vai ser contratado
+  O perfi de quem vai ser contratado (Profile of the Intended Hire)
 </text> 
 </div>
 
@@ -51,7 +52,7 @@
 
 <div>
 <text>
-  Perfil do contratante visto do ponto de vista do contratado
+  Perfil do contratante visto do ponto de vista do contratado (Contractor's Profile from the Hire's perspective)
 </text> 
 </div>
 
@@ -59,7 +60,7 @@
 
 <div>
 <text>
-  Resposta do contratado no chat, do ponto de vista do contratado
+  Resposta do contratado no chat, do ponto de vista do contratado (Response from the Hired in the chat, from the Hired's perspective)
 </text> 
 </div>
 
@@ -67,19 +68,16 @@
 
 <div>
 <text>
-  Resposta vista do ponto de vista do contratante
+  Resposta vista do ponto de vista do contratante (Response from the Hired, from the Contractor's perspective)
 </text> 
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/e24b83e2-83b7-4ef2-9b7d-c8eda9102b2c" width="300" height="600">
 
-
-
-
-
 <div>
 <text>
-  Página do contrato ao clicar no botão "Contratado {nome da pessoa}" no perfil para contratar o usuário.
+  Página do contrato ao clicar no botão "Contratado {nome da pessoa}" no perfil para contratar o usuário. 
+  (Contract Page when clicking on the "Hired {person's name}" button on the profile to hire the user.)
 </text> 
 </div>
 
@@ -87,7 +85,8 @@
 
 <div>
 <text>
-  Contrato sendo criado. Quando ele for feito, irá depender do contratado se ele irá aceitar ou não.
+  Contrato sendo criado. Quando ele for feito, irá depender do contratado se ele irá aceitar ou não. 
+  (Contract being created. When it is done, it will depend on the Hired whether they will accept it or not.)
 </text> 
 </div>
 
@@ -95,15 +94,14 @@
 
 <div>
 <text>
-  Contrato feito com sucesso
+  Contrato feito com sucesso (Contract successfully created)
 </text>
 </div>
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 
-
 <div>
 <text>
-  Contrato pendente na lista de contratos do ponto de vista do contratante
+  Contrato pendente na lista de contratos do ponto de vista do contratante (Pending Contract in the Contractor's contract list)
 </text> 
 </div>
 
@@ -111,8 +109,7 @@
 
 <div>
 <text>
-  Contrato pendente do ponto de vista do contratado.
- 
+  Contrato pendente do ponto de vista do contratado. (Pending Contract from the Hired's perspective)
 </text> 
 </div>
 
@@ -120,7 +117,7 @@
 
 <div>
 <text>
-  Contrato pendente na lista de contratos do ponto de vista do contratante
+  Contrato pendente na lista de contratos do ponto de vista do contratante (Pending Contract in the Contractor's contract list)
 </text> 
 </div>
 
@@ -128,25 +125,8 @@
 
 <div>
 <text>
-  Contrato pendente do ponto de vista do contratado, para escolher se vai aceitar ou não 
+  Contrato pendente do ponto de vista do contratado, para escolher se vai aceitar ou não (Pending Contract from the Hired's perspective, to choose whether to accept it or not)
 </text> 
 </div>
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/906f78d2-dba0-460a-b55a-72e01f9b9934" width="300" height="600">
-
-
-<div>
-<text>
-  Contrato aceito do ponto de vista do contratante.
-</text>
-<div>
-  
-</div> 
-<text>
-    Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
-</text>
-</div>
-
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/cdc2740d-0266-46a1-a47a-a9529b0c0b9f" width="300" height="600">
-
-
