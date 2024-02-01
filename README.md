@@ -89,7 +89,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 13 
+  Contrato sendo criado. Quando ele for feito, irá depender do contratado se ele irá aceitar ou não.
 </text> 
 </div>
 
