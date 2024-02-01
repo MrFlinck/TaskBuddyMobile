@@ -15,7 +15,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 3 
+  O perfi de quem vai ser contratado
 </text> 
 </div>
 
