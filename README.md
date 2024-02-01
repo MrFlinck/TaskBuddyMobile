@@ -9,7 +9,11 @@
 <text>
   Contrato aceito do ponto de vista do contratante.
 
-</text>  
+</text>
+<div>
+  
+</div>
+  
 <text>
     Obs: A tela será mesma quando for aceito ou negado para contratante e contratado. 
 </text>
