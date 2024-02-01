@@ -47,7 +47,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 7 
+  Cadastro
 </text> 
 </div>
 
