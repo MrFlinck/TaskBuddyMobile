@@ -5,6 +5,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Contractor sign in 
 </text> 
@@ -19,16 +22,23 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text> 
   Obs: Ele pode logar automaticamente quando se cadastrar. Aqui ele saiu e irá logar de novo. 
 </text> 
 </div>
 
-
+<div>
+</div>
 <div>
 <text>
   contractor login
 </text> 
+</div>
+
+<div>
 </div>
 
 <div>
@@ -47,6 +57,8 @@
 </text> 
 </div>
 
+<div>
+</div>
 
 <div>
 <text>
@@ -61,6 +73,9 @@
 <text>
   Lista de trablhadores, do ponto de vista do contratante. 
 </text> 
+</div>
+
+<div>
 </div>
 
 <div>
@@ -81,6 +96,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   The profile of those to be hired
 </text> 
@@ -92,6 +110,9 @@
 <text>
   Perfil do contratante visto do ponto de vista do contratado
 </text> 
+</div>
+
+<div>
 </div>
 
 <div>
@@ -110,6 +131,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Contractor's response in chat, from the hired's point of view
 </text> 
@@ -121,6 +145,9 @@
 <text>
   Resposta vista do ponto de vista do contratante
 </text> 
+</div>
+
+<div>
 </div>
 
 <div>
@@ -142,6 +169,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Contract page when clicking on the "Hired {person's name}" button in the profile to hire the user.
 </text> 
@@ -153,6 +183,9 @@
 <text>
   Contrato sendo criado. Quando ele for feito, irá depender do contratado se ele irá aceitar ou não.
 </text> 
+</div>
+
+<div>
 </div>
 
 <div>
@@ -170,6 +203,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Contract successfully completed
 </text>
@@ -182,6 +218,9 @@
 <text>
   Contrato pendente na lista de contratos do ponto de vista do contratante
 </text> 
+</div>
+
+<div>
 </div>
 
 <div>
@@ -201,6 +240,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Contract pending from the hired's point of view.
  
@@ -213,6 +255,9 @@
 <text>
   Contrato pendente na lista de contratos do ponto de vista do contratante
 </text> 
+</div>
+
+<div>
 </div>
 
 
@@ -231,6 +276,9 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Pending contract from the hired's point of view, to choose whether to accept or not 
 </text> 
@@ -244,6 +292,9 @@
   Contrato aceito do ponto de vista do contratante.
 </text>
 <div>
+
+<div>
+</div>
   
 </div> 
 <text>
@@ -252,10 +303,16 @@
 </div>
 
 <div>
+</div>
+
+<div>
 <text>
   Contract accepted from the contractor's point of view.
 </text>
 <div>
+
+<div>
+</div>
   
 </div> 
 <text>
