@@ -31,7 +31,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 5 
+  Resposta do contratado no chat, do ponto de vista do contratado
 </text> 
 </div>
 
