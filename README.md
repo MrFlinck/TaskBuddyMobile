@@ -1,4 +1,10 @@
+<div>
+<text>
+  Cadastro do contratante
+</text> 
+</div>
 
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/9ef50048-47c5-4966-b3c4-05617fc5496e" width="300" height="600">
 <div>
 <text>
   Contrato aceito do ponto de vista do contratante.
@@ -47,13 +53,7 @@
 
 <img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/e24b83e2-83b7-4ef2-9b7d-c8eda9102b2c" width="300" height="600">
 
-<div>
-<text>
-  Cadastro do contratante
-</text> 
-</div>
 
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/9ef50048-47c5-4966-b3c4-05617fc5496e" width="300" height="600">
 
 <div>
 <text>
