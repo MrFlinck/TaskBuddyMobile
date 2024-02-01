@@ -97,7 +97,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 14 
+  Página do contrato ao clicar no botão para contratar o usuário.
 </text> 
 </div>
 
