@@ -39,7 +39,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 6 
+  Resposta vista do ponto de vista do contratante
 </text> 
 </div>
 
