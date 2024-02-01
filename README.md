@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="500">
+<img src="https://github.com/MrFlinck/TaskBuddyMobile/assets/114952688/143c3167-1a5a-4d52-8859-d1d069a94089" width="300" height="600">
 
 
 
