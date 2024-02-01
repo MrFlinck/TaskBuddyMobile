@@ -23,7 +23,7 @@
 
 <div>
 <text>
-  Contrato feito com sucesso 4 
+  Perfil do contratante visto do ponto de vista do contratado
 </text> 
 </div>
 
